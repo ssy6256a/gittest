@@ -2,6 +2,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,jupyternotebooks,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,visualstudiocode,jupyternotebooks,python
 
+# 특정 확장자 제외하고 싶으면 그냥 쓰면 됨
+*.txt
+
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
