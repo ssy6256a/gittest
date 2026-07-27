@@ -4,6 +4,7 @@
 
 # 특정 확장자 제외하고 싶으면 그냥 쓰면 됨
 *.txt
+calc.py
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
